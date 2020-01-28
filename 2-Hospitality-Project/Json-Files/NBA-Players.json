@@ -1,0 +1,12 @@
+
+    {
+        "guards": [
+            {"fullName":"Steph Curry","team":"Golden State Warriors"},
+            {"fullName":"James Harden","team":"Houston Rockets"},
+            {"fullName":"Damian Lillard","team":"Portland Trail Blazers"}
+        ],
+        "longForvet":[
+            {"fullName":"Lebron James","team":"Los Angeles Lakers"},
+            {"fullName":"Kevin Durant","team":"Brooklyn Nets"}
+        ]
+    }
